@@ -354,4 +354,7 @@ img {
 :-ms-input-placeholder {
    color: white;
 }
-=======
+.blurb {
+  background-color: black;
+  color: white;
+}
